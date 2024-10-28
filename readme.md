@@ -1,4 +1,4 @@
-# Learn with Monk Jha
+# Learn with Aviroop
 
 ## Setup
 
